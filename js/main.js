@@ -76,4 +76,4 @@ function biggestNumber(arr) {
     }
     console.log(biggest)
 }
-biggestNumber([2, 5, 15, 11, 3])
+biggestNumber([2, 5, 22, 11, 3])
