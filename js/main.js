@@ -77,3 +77,9 @@ function biggestNumber(arr) {
     console.log(biggest)
 }
 biggestNumber([2, 5, 22, 11, 3])
+
+function skaitmenukiekisskaiciuje() {
+    return
+}
+
+
